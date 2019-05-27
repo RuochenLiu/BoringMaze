@@ -1,5 +1,5 @@
 # BoringMaze
-A Unity game with random maze and "dynamic difficulty".
+A Unity game with random maze and 'dynamic difficulty'.
 
 ## Screenshot
 <img src="/Share/image.png"/>
